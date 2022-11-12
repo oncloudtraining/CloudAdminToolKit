@@ -1,1 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2022-11-12T08:28:31.304Z" agent="5.0 (Windows)" version="20.5.3" etag="cRMyfO6NxjZ9yyiu5QMX" type="github"><diagram id="jIn21evv9o4XqQ7Liomn">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-12T14:57:07.844Z" agent="5.0 (Windows)" etag="NcUKVeyxAw2lOhdeofk4" version="20.5.3" type="github">
+  <diagram id="jIn21evv9o4XqQ7Liomn" name="Page-1">
+    <mxGraphModel dx="782" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IQcD-QyMFbukMIvnMwub-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="640" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="IQcD-QyMFbukMIvnMwub-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IQcD-QyMFbukMIvnMwub-2" target="IQcD-QyMFbukMIvnMwub-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="194" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="286" y="192" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQcD-QyMFbukMIvnMwub-2" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Load_Balancers.svg;" vertex="1" parent="1">
+          <mxGeometry x="250" y="280" width="72" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="IQcD-QyMFbukMIvnMwub-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IQcD-QyMFbukMIvnMwub-3" target="IQcD-QyMFbukMIvnMwub-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQcD-QyMFbukMIvnMwub-3" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Public_IP_Addresses.svg;" vertex="1" parent="1">
+          <mxGeometry x="120" y="290" width="65" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="IQcD-QyMFbukMIvnMwub-4" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="1">
+          <mxGeometry x="365.5" y="160" width="69" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="IQcD-QyMFbukMIvnMwub-5" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="1">
+          <mxGeometry x="380" y="410" width="69" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="IQcD-QyMFbukMIvnMwub-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="IQcD-QyMFbukMIvnMwub-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="286" y="440" as="sourcePoint" />
+            <mxPoint x="365.5" y="352" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="286" y="350" />
+              <mxPoint x="290" y="350" />
+              <mxPoint x="290" y="420" />
+              <mxPoint x="306" y="420" />
+              <mxPoint x="306" y="430" />
+              <mxPoint x="370" y="430" />
+              <mxPoint x="370" y="442" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQcD-QyMFbukMIvnMwub-12" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" vertex="1" parent="1">
+          <mxGeometry x="530" y="240" width="70" height="64" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
