@@ -1,0 +1,5 @@
+=================================================Capture Network Traffic Logs================================================================
+
+Netsh trace start scenario=NetConnection capture=yes report=yes persistent=no maxsize=102400 correlation=no traceFile=C:\Temp\NetTrace.etl
+
+Netsh Trace Stop
